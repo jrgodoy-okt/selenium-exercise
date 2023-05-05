@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Login User
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.065 s <<< FAILURE! - in Login User
+user buy 4 expensive products(Login User)  Time elapsed: 16.065 s  <<< FAILURE!
+org.assertj.core.api.SoftAssertionError: 
+
+The following assertion failed:
+1) expected:<"[6]"> but was:<"[4]">
+at NativeConstructorAccessorImpl.newInstance0(NativeConstructorAccessorImpl.java:-2) expected:<"[6]"> but was:<"[4]">
+
+

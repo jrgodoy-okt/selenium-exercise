@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Login User" skipped="0" tests="1" time="15.98" timestamp="2023-05-05 02:06:26"><testcase name="user buy 4 expensive products"><failure message="&#10;The following assertion failed:&#10;1) expected:&lt;&quot;[6]&quot;&gt; but was:&lt;&quot;[4]&quot;&gt;&#10;at NativeConstructorAccessorImpl.newInstance0(NativeConstructorAccessorImpl.java:-2) expected:&lt;&quot;[6]&quot;&gt; but was:&lt;&quot;[4]&quot;&gt;&#10;" type="java.lang.AssertionError">
+The following assertion failed:
+1) expected:&lt;"[6]"&gt; but was:&lt;"[4]"&gt;
+at NativeConstructorAccessorImpl.newInstance0(NativeConstructorAccessorImpl.java:-2) expected:&lt;"[6]"&gt; but was:&lt;"[4]"&gt;
+</failure><system-err>
+The following assertion failed:
+1) expected:&lt;"[6]"&gt; but was:&lt;"[4]"&gt;
+at NativeConstructorAccessorImpl.newInstance0(NativeConstructorAccessorImpl.java:-2) expected:&lt;"[6]"&gt; but was:&lt;"[4]"&gt;
+
+saucedemo.stepsdefinitions.UserStepsDefinitions.successMessageIsDisplayed(UserStepsDefinitions.java:80)
+✽.success message is displayed(src/test/resources/features/SauceDemo.feature:15)
+</system-err></testcase></testsuite>
